@@ -58,6 +58,4 @@ The architecture involves:
 - Streamline with Apache Airflow for orchestration  
 - Add schema validation with Avro or Protobuf
 
----
 
-If you're interested in real-time analytics, streaming data pipelines, or cloud-based data lakes — feel free to fork the repo and experiment!
